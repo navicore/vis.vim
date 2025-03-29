@@ -18,3 +18,13 @@ Lazy config:
 }
 ```
 
+I suggest using `vis` with `vissort`:
+
+```lua
+{
+  'navicore/vis.vim',
+  'navicore/vissort.vim',
+}
+```
+
+
